@@ -1,0 +1,6 @@
+import{c as r,j as e}from"./index-gBRQ19Nz.js";import{C as t,a as s}from"./card-7IUS2tMB.js";/**
+ * @license lucide-react v0.545.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const c=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["line",{x1:"12",x2:"12",y1:"8",y2:"12",key:"1pkeuh"}],["line",{x1:"12",x2:"12.01",y1:"16",y2:"16",key:"4dfq90"}]],l=r("circle-alert",c);function i(){return e.jsx("div",{className:"min-h-screen w-full flex items-center justify-center bg-background",children:e.jsx(t,{className:"w-full max-w-md mx-4 shadow-lg",children:e.jsxs(s,{className:"pt-6 text-center",children:[e.jsxs("div",{className:"flex flex-col items-center mb-4 gap-4",children:[e.jsx(l,{className:"h-16 w-16 text-destructive"}),e.jsx("h1",{className:"text-3xl font-bold text-foreground",children:"404 - الصفحة غير موجودة"})]}),e.jsx("p",{className:"mt-4 text-lg text-muted-foreground",children:"عذراً، الصفحة التي تبحث عنها غير موجودة أو تم نقلها."}),e.jsx("a",{href:"/",className:"mt-8 inline-block px-6 py-2 bg-primary text-primary-foreground rounded-md hover:bg-primary/90 transition-colors",children:"العودة للرئيسية"})]})})})}export{i as default};
